@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anmol Ratan Tiwari</h1>
-<h3 align="center">I'm a final year student from College Of Engineering Roorkee. A passionate Software developer from India.</h3>
+<h3 align="center">I'm a 2024 BTech graduate from College Of Engineering Roorkee. A passionate Software developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artiwari10" alt="artiwari10" /></a> </p>
 
-- 🔭 I’m currently working on **SelfMedi-Cop**
+- 🔭 I’m currently working on **UniMenu**
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Spotify Clone**
-
-- 🔭 I’m currently working on **Cab Booking System**
+- 👯 I’m looking to collaborate on **UniMenu**
 
 - 👨‍💻 All of my projects are available at [https://github.com/artiwari10](https://github.com/artiwari10)
 
-- 📫 How to reach me **anmolratantiwari@coer.ac.in**
+- 📫 How to reach me **anmolratantiwari@coer.ac.in** or "anmolratantiwari62@gmail.com"
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/167M23ILyVnVtqh4q2-V2_uHdVUJTz_VH/view?usp=sharing](https://drive.google.com/file/d/167M23ILyVnVtqh4q2-V2_uHdVUJTz_VH/view?usp=sharing)
 
