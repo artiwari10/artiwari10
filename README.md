@@ -7,14 +7,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **UniMenu**
-
 - 👨‍💻 All of my projects are available at [https://github.com/artiwari10](https://github.com/artiwari10)
-
+- 👨‍💻 Skillen in Java, JavaScript, HTML, CSS, NodeJS, MongoDB and React
 - 📫 How to reach me **anmolratantiwari@coer.ac.in** or "anmolratantiwari62@gmail.com"
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/167M23ILyVnVtqh4q2-V2_uHdVUJTz_VH/view?usp=sharing](https://drive.google.com/file/d/167M23ILyVnVtqh4q2-V2_uHdVUJTz_VH/view?usp=sharing)
-
+- 📄 Former Intern at Codechef as an Educator
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/artiwari10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artiwari10" height="30" width="40" /></a>
